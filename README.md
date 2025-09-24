@@ -5,6 +5,7 @@
 
 * **Patrón y Principio**: Observer/OCP
 
+---
 ## Investigación
 
 Mi Trabajo Integrador Final se centra en el desarrollo de un **Sistema de Gestión de Viáticos**, el cual será implementado utilizando el framework **Laravel**.
@@ -16,6 +17,7 @@ Los **patrones de diseño** que investigué y que podrían ser útiles son:
 * También, el **Strategy** sería útil para implementar distintos criterios de búsqueda y filtrado de solicitudes (por empleado, fecha o departamento) sin acoplar la lógica en un único método.
 En conjunto, estos patrones aportarían flexibilidad, reducción de código repetido y mayor facilidad para mantener y escalar el sistema a futuro.
 
+---
 ## Validacion del compañero
 * Nombre y Apellido: Sebastian Mora
 * Comentario: En su verificación del patron Observer me comentó que este se cumple, ya que se implementa un mecanismo de suscripción y notificación: los usuarios se suscriben al blog y reciben un aviso automático cuando se publica un nuevo post.
